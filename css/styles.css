@@ -6,6 +6,7 @@ body {
 ul {
   color: #353535;
   font-size: 16px;
+  padding-left: 20px;
 }
 
 p {
@@ -608,7 +609,7 @@ video {
 
 .sub-heading {
   font-size: 1.2rem;
-  padding-bottom: 10px;
+  padding-bottom: 4px;
 }
 
 .tools-and-methods {
