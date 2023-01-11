@@ -213,7 +213,7 @@ canvas.dots {
   padding: 2% 0 2%;
   margin-bottom: 20px;
   text-align: center;
-  align-items: center;
+  align-items: top;
   justify-content: center;
 }
 
@@ -608,6 +608,7 @@ video {
 
 .sub-heading {
   font-size: 1.2rem;
+  padding-bottom: 10px;
 }
 
 .tools-and-methods {
