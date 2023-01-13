@@ -457,6 +457,10 @@ canvas.dots {
   padding-left: 20px !important;
 }
 
+#hi-fidelity .row {
+  align-items: center;
+}
+
 #takeaways ul {
   padding-left: 20px !important;
 }
